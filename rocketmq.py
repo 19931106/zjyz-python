@@ -1,0 +1,1 @@
+from rocketmq.client import Producer, Message
